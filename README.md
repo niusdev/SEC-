@@ -1,5 +1,6 @@
 ## Estrutura de pastas.
 
+docs<br/>
 ├── *arquivos referentes à documentação (Diagrama, ECU's, ERN's, Glossário, misc, usage)<br/>
 src<br/>
 ├── BACKEND<br/>
